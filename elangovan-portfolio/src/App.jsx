@@ -250,7 +250,7 @@ export default function App() {
               I combine <span className="text-white font-semibold">Full Stack Development</span> with <span className="text-white font-semibold">AI & Data Science</span> to build smart, scalable software.
             </p>
             <div className="flex justify-center md:justify-start">
-              <a href={resumePdf} download="Elangovan_Resume.pdf" className="group relative inline-flex items-center justify-center px-8 py-3.5 font-bold text-white rounded-full bg-zinc-900 border-2 border-white/10 overflow-hidden transition-all hover:scale-105 active:scale-95">
+              <a href={resumePdf} download="ElangovanResume.pdf" className="group relative inline-flex items-center justify-center px-8 py-3.5 font-bold text-white rounded-full bg-zinc-900 border-2 border-white/10 overflow-hidden transition-all hover:scale-105 active:scale-95">
                 <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-red-500 via-pink-500 to-purple-600 opacity-0 group-hover:opacity-40 blur-xl transition-opacity duration-500"></span>
                 <span className="relative z-10 flex items-center gap-2">Download Resume <FiDownload className="text-lg"/></span>
               </a>
