@@ -8,7 +8,7 @@ import { IoLogoHtml5 } from "react-icons/io";
 
 // --- ASSETS ---
 import profileImg from './assets/image_0.png';
-import resumePdf from './assets/Elangovan Resume.pdf';
+import resumePdf from './assets/Elangovan_Resume.pdf';
 
 // --- PROJECT SCREENSHOTS ---
 import melo1 from './assets/Melo/1.png';
