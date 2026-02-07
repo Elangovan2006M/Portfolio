@@ -250,7 +250,7 @@ export default function App() {
             </p>
             <div className="flex justify-center md:justify-start">
               <a 
-                href="/Elangovan_Resume.pdf?v=final" 
+                href="/Elangovan_Resume.pdf" 
                 download="Elangovan_Resume.pdf" 
                 className="group relative inline-flex items-center justify-center px-8 py-3.5 font-bold text-white rounded-full bg-zinc-900 border-2 border-white/10 overflow-hidden transition-all hover:scale-105 active:scale-95"
               >
